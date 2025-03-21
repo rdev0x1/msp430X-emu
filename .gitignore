@@ -1,0 +1,7 @@
+build/
+.cache
+tmp/
+.gdbinit
+build.sh
+compile_commands.json
+.echogit/
